@@ -42,3 +42,11 @@ Abarna M.
 
 ## 🎯Project Purpose
 This project was developed to practise PHP programming, database connectivity, CRUD operations, and authentication.
+
+## 🖼️ Project Screenshots
+
+### Login Page
+![Login Page](<img width="1366" height="768" alt="p-reg2" src="https://github.com/user-attachments/assets/f81a4ae8-a1e2-447d-a5f7-d2b8b3690688" />)
+
+### Dashboard & Student Records Overview
+![Dashboard](<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/b5f6ac90-7615-46dd-8ce9-a247ed0fdeda" />)
