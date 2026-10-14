@@ -37,9 +37,6 @@ A web-based Student Management System developed using PHP, MySQL, HTML, and CSS 
 ## 🔒Security
 The project uses prepared statements, password hashing, input validation, and session-based authentication. CSRF protection is implemented for the delete request and should be extended to other state-changing forms.
 
-## 👤Author
-Abarna M.
-
 ## 🎯Project Purpose
 This project was developed to practise PHP programming, database connectivity, CRUD operations, and authentication.
 
@@ -49,3 +46,6 @@ This project was developed to practise PHP programming, database connectivity, C
 ![Login Page]("C:\Users\acer\OneDrive\Pictures\login.png.png")
 ### Dashboard & Student Records Overview
 ![Dashboard](<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/b5f6ac90-7615-46dd-8ce9-a247ed0fdeda" />)
+
+## 👤Author
+Abarna M.
