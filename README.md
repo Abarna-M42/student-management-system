@@ -21,7 +21,7 @@ A web-based Student Management System developed using PHP, MySQL, HTML, and CSS 
 - XAMPP
 - Visual Studio Code
 
-##🛠️Requirements
+## 🛠️Requirements
 - XAMPP
 - Web browser
 - Code editor
@@ -34,7 +34,7 @@ A web-based Student Management System developed using PHP, MySQL, HTML, and CSS 
 5. Check the database settings in `db.php`.
 6. Open `http://localhost/student_management/` in your browser.
 
-##🔒Security
+## 🔒Security
 The project uses prepared statements, password hashing, input validation, and session-based authentication. CSRF protection is implemented for the delete request and should be extended to other state-changing forms.
 
 ## 👤Author
